@@ -7,7 +7,25 @@
 		<key>Test.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>1</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>DE2F59E825C4066E002E6930</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>DE2F59FF25C40699002E6930</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>DE2F5A1C25C406E0002E6930</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
